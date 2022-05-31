@@ -1,0 +1,1 @@
+window.collectionsJSON = [{"books":["B00PKJ5CZE","B00PKJ5C0O"],"description":"Demon Cycle","id":"d41e6749-d77a-44b2-ab60-275205b07e94","title":"Demon Cycle"},{"books":["B00W8DB4XE"],"description":"Tad Williams","id":"d9bdf0a0-5bf3-47be-b90a-abaaddc3be4d","title":"Dragon Bone"}];
